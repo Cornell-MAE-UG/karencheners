@@ -8,6 +8,7 @@ geometry: margin=1in
 papersize: letter
 pagestyle: empty
 ---
+
 ## Design Intent and Functionality
 
 Our project seeks to mitigate SLF damage in grape vineyards, given that it negatively impacts the grape and wine industry of the Northeastern United States. Our prototype mitigates SLF damage by attracting SLFs to a lure disk and sweeping them into a collection box where they will either die of hunger or be manually eliminated later.
