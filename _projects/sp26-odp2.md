@@ -2,7 +2,7 @@
 layout: project
 title: MAE 2250 - ODP Functional Prototype Documentation
 description: Class Assignment
-image: /assets/images/2250/slf.jpg
+image: /assets/images/2250/odp5.jpg
 fontsize: 11pt
 geometry: margin=1in
 papersize: letter
