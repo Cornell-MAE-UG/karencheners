@@ -1,6 +1,6 @@
 ---
 layout: project
-title: MAE 2250 - Open Design Project
+title: MAE 2250 - ODP Client Report
 description: Class Assignment
 image: /assets/images/2250/slf.jpg
 fontsize: 11pt 
