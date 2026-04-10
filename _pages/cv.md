@@ -35,7 +35,7 @@ permalink: /cv/
 - **Intrepid Museum** \
   *Intern*, July 2025 – August 2025 \
   - Researched and designed a 3D aircraft model using aerospace principles and Fusion 360.
-  - Wired and coded small robotic arm using Arduino Uno R3, apply servo control and basic circuitry.
+  - Wired and coded small robotic arm using Arduino Uno R3 and knowledge of servo control and basic circuitry.
   - Presented weekly prototypes to 20+ museum visitors and staff, and applied feedback to refine designs.
   - Networked with women professionals in the aerospace industry to learn about career pathways and industry perspectives.
 
