@@ -21,13 +21,23 @@ During grape harvest season, spotted lanternflies (SLFs) are more attracted to g
 ## Final Prototype and Application
 We built a hand crank mechanism that attracts SLFs and sweeps them into a collection bin with a funnel. The main focus of our final prototype is a disk that we can cover in honey to model tree of heaven sap that SLFs are attracted to over grapevines. The SLFs will stick to the honey, and the rake will sweep stuck SLFs off the disk into the funnel, which causes the SLFs to slide into a collection bin. To operate our mechanism, a user periodically rotates the hand crank, which in turn rotates the rake.
 
-
 <div style="text-align: center;">
-  <img src="{{ '/assets/images/final_presentation_assembly.png' | relative_url }}" alt="Centered Image" style="max-width:100%; height:auto;">
+  <img src="{{ '/assets/images/2250/odp6-mockup.jpg' | relative_url }}" alt="Centered Image" style="max-width:100%; height:auto;">
 </div>
 <center> Fig 1. Rough sketch of final prototype </center>
 <br>
 
+<div style="text-align: center;">
+  <img src="{{ '/assets/images/2250/odp6-assembly.jpeg' | relative_url }}" alt="Centered Image" style="max-width:100%; height:auto;">
+</div>
+<center> Fig 2. Final prototype assembly and instructions </center>
+<br>
+
+<div style="text-align: center;">
+  <img src="{{ '/assets/images/2250/odp6-assembly2.jpeg' | relative_url }}" alt="Centered Image" style="max-width:100%; height:auto;">
+</div>
+<center> Fig 1. Final prototype shaft assembly in detail </center>
+<br>
 
 ## Conclusion and Recommendations
 <p>Our final prototype successfully passed our tests; it could sweep SLF models from the disk into the funnel, which diverted the SLFs into our collection bin. In addition, our prototype was free-standing. However, during exhibition day, our acrylic rake noticeably deformed when sweeping through a thick layer of honey, and it ended up fracturing. In a redesign, we should reconsider what material our rake is made out of, as well as how it interacts with honey. In addition, during the exhibition, our setup was extremely sticky (because of the honey) and unpleasant to clean up. However, because the sap on the disk is intended to be continuously reapplied, we believe cleaning up is not a significant issue when this design is put into practice.</p>
