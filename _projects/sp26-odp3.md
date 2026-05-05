@@ -51,14 +51,14 @@ We first tested the functionality of two different rake styles at sweeping off S
 
 
 <div style="text-align: center;">
-  <img src="{{ '/assets/images/2250/rake-1.heic' | relative_url }}" alt="Centered Image" style="max-width:100%; height:auto;">
+  <img src="{{ '/assets/images/2250/rake-1.jpg' | relative_url }}" alt="Centered Image" style="max-width:100%; height:auto;">
 </div>
 <center>Fig 4. Prototype rake style 1</center>
 <br>
 
 
 <div style="text-align: center;">
-  <img src="{{ '/assets/images/2250/rake-2.heic' | relative_url }}" alt="Centered Image" style="max-width:100%; height:auto;">
+  <img src="{{ '/assets/images/2250/rake-2.jpg' | relative_url }}" alt="Centered Image" style="max-width:100%; height:auto;">
 </div>
 <center>Fig 5. Prototype rake style 2</center>
 <br>
