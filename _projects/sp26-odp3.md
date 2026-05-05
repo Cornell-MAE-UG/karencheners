@@ -22,19 +22,19 @@ During grape harvest season, spotted lanternflies (SLFs) are more attracted to g
 We built a hand crank mechanism that attracts SLFs and sweeps them into a collection bin with a funnel. The main focus of our final prototype is a disk that we can cover in honey to model tree of heaven sap that SLFs are attracted to over grapevines. The SLFs will stick to the honey, and the rake will sweep stuck SLFs off the disk into the funnel, which causes the SLFs to slide into a collection bin. To operate our mechanism, a user periodically rotates the hand crank, which in turn rotates the rake.
 
 <div style="text-align: center;">
-  <img src="{{ '/assets/images/2250/odp6-mockup.JPG' | relative_url }}" alt="Centered Image" style="max-width:100%; height:auto;">
+  <img src="{{ '/assets/images/2250/odp6-mockup.jpg' | relative_url }}" alt="Centered Image" style="max-width:100%; height:auto;">
 </div>
 <center> Fig 1. Rough sketch of final prototype </center>
 <br>
 
 <div style="text-align: center;">
-  <img src="{{ '/assets/images/2250/odp6-assembly.JPEG' | relative_url }}" alt="Centered Image" style="max-width:100%; height:auto;">
+  <img src="{{ '/assets/images/2250/odp6-assembly.jpeg' | relative_url }}" alt="Centered Image" style="max-width:100%; height:auto;">
 </div>
 <center> Fig 2. Final prototype assembly and instructions </center>
 <br>
 
 <div style="text-align: center;">
-  <img src="{{ '/assets/images/2250/odp6-assembly2.JPEG' | relative_url }}" alt="Centered Image" style="max-width:100%; height:auto;">
+  <img src="{{ '/assets/images/2250/odp6-assembly2.jpeg' | relative_url }}" alt="Centered Image" style="max-width:100%; height:auto;">
 </div>
 <center> Fig 3. Final prototype shaft assembly in detail </center>
 <br>
