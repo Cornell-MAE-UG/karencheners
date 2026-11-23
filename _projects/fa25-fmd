@@ -1,0 +1,12 @@
+---
+layout: project
+title: MAE 3230 - Fluid Mechanical Dissection
+description: Class Assignment
+image:
+fontsize: 11pt 
+geometry: margin=1in 
+papersize: letter 
+pagestyle: empty
+--- 
+
+We are taking apart a leaf blower.
